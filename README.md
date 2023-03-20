@@ -17,19 +17,18 @@ $ npm run start
 $ npm run generate
 ```
 
-![image](https://user-images.githubusercontent.com/99497565/220835798-f5cb63dd-fdc8-4334-a919-3b77dd2bc87b.png)
+![image](https://user-images.githubusercontent.com/99497565/226338846-60426fb2-4e94-453f-9ca2-d486254971a2.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220835844-8124fd1a-aabb-4946-95fa-d4772b943136.png)
+![image](https://user-images.githubusercontent.com/99497565/226338904-5f6a2dfb-2b7b-42f2-9214-9041bbb8e4ce.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220835891-a4893b3b-c298-40f4-8909-f74ada2b4733.png)
+![image](https://user-images.githubusercontent.com/99497565/226339032-aeb98917-c218-43f7-b791-3ef09217b63a.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220836031-e609c8eb-d898-4947-87b9-98bdd89b5a6c.png)
+![image](https://user-images.githubusercontent.com/99497565/226339092-dc633426-3b27-47ed-ad49-2a9a70d29faf.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220836076-ab962cb4-c68d-4507-bd71-aade4bddd462.png)
+![image](https://user-images.githubusercontent.com/99497565/226339145-90c5502c-beba-4d13-8035-6c62461ad082.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220836115-ef1b8b35-662d-4d3c-a6c5-78a88edc1431.png)
+![image](https://user-images.githubusercontent.com/99497565/226339192-01311953-6178-45b7-8780-017d996f45ef.png)
 
-![image](https://user-images.githubusercontent.com/99497565/220836157-ff26d978-443a-4d7c-b55f-1940d86db3d0.png)
 
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
